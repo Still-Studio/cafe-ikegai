@@ -24,7 +24,7 @@ export default function HeroSection() {
         className="absolute inset-0 scale-110 will-change-transform"
       >
         <img
-          src="/src/images/Back.jpg"
+          src="/public/images/Back.jpg"
           alt="Café Ikigai ambience"
           className="w-full h-full object-cover"
         />

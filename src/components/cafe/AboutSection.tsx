@@ -82,7 +82,7 @@ export default function AboutSection() {
             <div ref={imgRef} className="relative overflow-hidden rounded-sm aspect-[4/5]">
               <motion.img
                 style={{ y: imgY }}
-                src="/src/images/front.jpg"
+                src="/public/images/front.jpg"
                 alt="Café Ikigai interior"
                 className="w-full h-[115%] object-cover -mt-[7.5%] will-change-transform"
               />
